@@ -1,0 +1,141 @@
+{
+    "featuredProperty":[
+      {
+        "title": "Jasper Garden",
+        "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "location": "16 shelby drive placement ibeju lekki",
+        "property":[
+            {
+                "type": "Land",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 0
+      },
+      {
+        "title": "Jasper Estate",
+        "image": "https://images.unsplash.com/photo-1619216083420-6e54b895f730?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "location": "940 Goldendale Dr, Wasilla, Alaska 99654, USA",
+        "property":[
+            {
+                "type": "Land",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 1
+      },
+      {
+        "title": "Sardius",
+        "image": "https://images.unsplash.com/photo-1505819244306-ef53954f9648?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=699&q=80",
+        "location": "925 S Chugach St #APT 10, Palmer, Alaska 99645, USA",
+        "property":[
+            {
+                "type": "Land",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 2
+      },
+      {
+        "title": "Trumpeter Court",
+        "image": "https://images.unsplash.com/photo-1602343168117-bb8ffe3e2e9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+        "location": " 161 Trumpeter Ave, Soldotna, Alaska 99669, USA",
+        "property":[
+            {
+                "type": "Land",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 3
+      },
+      {
+        "title": "Mountain View",
+        "image": "https://images.unsplash.com/photo-1610055126572-48559c2f22f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "location": "1518 Stellar Dr, Kenai, Alaska 99611, USA",
+        "property":[
+            {
+                "type": "Land",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 4
+      },
+      {
+        "title": "Tongass Gate",
+        "image": "https://images.unsplash.com/photo-1626713049920-0899f358d56b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "location": " 2417 Tongass Ave #111, Ketchikan, Alaska 99901, USA",
+        "property":[
+            {
+                "type": "Property",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 5
+      },
+      {
+        "title": "Hotel View",
+        "image": "https://images.unsplash.com/photo-1524082983062-21c24967d6c9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=797&q=80",
+        "location": "24486 Yukon Rd, Kasilof, Alaska 99610, USA",
+        "property":[
+            {
+                "type": "Land",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 6
+      },
+      {
+        "title": "Old House",
+        "image": "https://images.unsplash.com/photo-1503627381655-17cf0637efc0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
+        "location": "912 Park Ave, Ketchikan, Alaska 99901, USA",
+        "property":[
+            {
+                "type": "Property",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 7
+      },
+      {
+        "title": "Black Coffe",
+        "image": "https://images.unsplash.com/photo-1604014238029-86e8c12579f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
+        "location": "911 Hillside Dr, Kodiak, Alaska 99615, USA",
+        "property":[
+            {
+                "type": "Property",
+                "status":"For sale"
+            }
+        ],
+
+        "id": 8
+      }
+    ],
+    "OurProperties" :[
+      {
+        "id":0,
+        "video": "",
+        "image": "https://images.unsplash.com/photo-1605146769289-440113cc3d00?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "details": "Located on the hills of Fabron in one of Nice's most beautiful neighborhoods, close to all amenities, shops and schools, this new residence with its contemporary, uncluttered architecture offers apartments from studio to 5-room, including exceptional properties such as 2 rooftop villas. ..."
+      },
+      {
+        "id":1,
+        "video": "",
+        "image": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=992&q=80",
+        "details": "NICE WEST / LANTERNE: Close to amenities, shops and the Promenade des Anglais, we offer, in this new real estate program, a 3-bedroom corner apartment of 83 m2 with a terrace of 46 m2 and opening onto a garden of 160 m2 facing West and East..."
+      },
+      {
+        "id":2,
+        "video": "http://",
+        "image": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhvdXNlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "NICE MONT BORON - CAP DE NICE - Ideally located in a charming small condominium, in absolute calm, pleasant 2 bedroom apartment-villa of 86sqm (76sqm Carrez law) enjoying a separate entrance and a nice garden with terrace of 300sqm..."
+      }
+    ]
+  }
